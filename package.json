@@ -1,0 +1,27 @@
+{
+    "name": "my-resume-project",
+    "version": "1.0.0",
+    "description": "Shubham's VUE Project to deploy the self's resume",
+    "main": "main.js",
+    "scripts": {
+        "serve": "vue-cli-service serve --open",
+        "build": "vue-cli-service build --target lib",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "axios": "^0.21.0",
+        "js-yaml": "^3.14.0",
+        "vue": "^2.6.12"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^4.5.4",
+        "@vue/cli-service": "^4.5.4",
+        "babel-eslint": "^10.1.0",
+        "vue-template-compiler": "^2.6.12"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ],
+    "private": true
+}

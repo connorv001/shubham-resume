@@ -1,0 +1,25 @@
+name: John Doe
+title: Full Stack Developer
+
+about:
+  description: I am a highly motivated and enthusiastic software developer with 3 years of experience in the field. My expertise lies in building modern web applications using Vue.js, Node.js, and MongoDB.
+
+skills:
+  - Vue.js
+  - Node.js
+  - MongoDB
+  - JavaScript
+  - HTML
+  - CSS
+
+experience:
+  - title: Full Stack Developer
+    description: Worked as a Full Stack Developer at XYZ Company, where I was responsible for building and maintaining web applications using Vue.js and Node.js.
+  - title: Junior Developer
+    description: Started my career as a Junior Developer at ABC Company, where I gained experience in developing web applications using HTML, CSS, and JavaScript.
+
+projects:
+  - title: Personal Blog
+    description: Built a personal blog using Vue.js, Node.js, and MongoDB, where I can share my thoughts and ideas with the world.
+  - title: Online Shop
+    description: Worked on an online shop project using Vue.js and Node.js, where customers can purchase products online.
